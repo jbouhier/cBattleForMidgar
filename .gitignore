@@ -1,0 +1,7 @@
+# Temporary files
+*.~
+*#*#
+
+# Mac stuff
+.DS_Store
+
