@@ -3,13 +3,13 @@
 ## How to play
 
 1) Compile  
-Make
+	Make
 
 2) Give execution rights to the binary (executable)  
-chmod u+x ragnarok
+	chmod u+x ragnarok
 
 3) Play  
-./ragnarok -n "your adventurer name"
+	./ragnarok -n "your adventurer name"
 
 4) Commands  
 attack = -7 HP to the enemy  
